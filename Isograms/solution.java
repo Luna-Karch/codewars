@@ -2,7 +2,7 @@ package Isograms;
 
 import java.util.HashSet;
 
-public class isogram {
+public class solution {
     public static boolean  isIsogram(String str) {
         HashSet<Character> uniqueValues = new HashSet<>();
         // Make a new empty set of Characters
